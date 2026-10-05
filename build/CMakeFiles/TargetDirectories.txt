@@ -1,0 +1,3 @@
+/home/lci/Descargas/BenjasScript/BenjasScript/build/CMakeFiles/BenjasScript.dir
+/home/lci/Descargas/BenjasScript/BenjasScript/build/CMakeFiles/edit_cache.dir
+/home/lci/Descargas/BenjasScript/BenjasScript/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+main
+{
+    Stand;
+    Walk 0.2;
+    Rotate 0.5;
+    Sit;
+}
